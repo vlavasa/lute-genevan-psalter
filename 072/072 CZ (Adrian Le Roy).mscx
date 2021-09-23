@@ -173,7 +173,7 @@
           <linesThrough>1</linesThrough>
           <minimStyle>0</minimStyle>
           <onLines>0</onLines>
-          <showRests>0</showRests>
+          <showRests>1</showRests>
           <stemsDown>0</stemsDown>
           <stemsThrough>0</stemsThrough>
           <upsideDown>0</upsideDown>
@@ -2464,6 +2464,7 @@
               <syllabic>begin</syllabic>
               <text>slá</text>
               </Lyrics>
+            <StemDirection>up</StemDirection>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -2505,6 +2506,7 @@
               <syllabic>end</syllabic>
               <text>vou</text>
               </Lyrics>
+            <StemDirection>up</StemDirection>
             <Note>
               <pitch>70</pitch>
               <tpc>12</tpc>
@@ -2548,6 +2550,7 @@
               <syllabic>begin</syllabic>
               <text>na</text>
               </Lyrics>
+            <StemDirection>up</StemDirection>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -2587,6 +2590,7 @@
               <syllabic>middle</syllabic>
               <text>pl</text>
               </Lyrics>
+            <StemDirection>up</StemDirection>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -2857,6 +2861,7 @@
               <syllabic>begin</syllabic>
               <text>vše</text>
               </Lyrics>
+            <StemDirection>up</StemDirection>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -2898,6 +2903,7 @@
               <syllabic>end</syllabic>
               <text>chna</text>
               </Lyrics>
+            <StemDirection>up</StemDirection>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -2942,6 +2948,7 @@
               <no>9</no>
               <text>zem!</text>
               </Lyrics>
+            <StemDirection>down</StemDirection>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -3338,8 +3345,8 @@
             <Note>
               <pitch>63</pitch>
               <tpc>11</tpc>
-              <fret>1</fret>
-              <string>1</string>
+              <fret>6</fret>
+              <string>2</string>
               </Note>
             </Chord>
           <Chord>
@@ -4166,8 +4173,8 @@
             <Note>
               <pitch>63</pitch>
               <tpc>11</tpc>
-              <fret>1</fret>
-              <string>1</string>
+              <fret>6</fret>
+              <string>2</string>
               </Note>
             </Chord>
           <Chord>
@@ -4964,8 +4971,8 @@
             <Note>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <fret>1</fret>
-              <string>2</string>
+              <fret>5</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Chord>
@@ -5013,8 +5020,8 @@
             <Note>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <fret>1</fret>
-              <string>2</string>
+              <fret>5</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Chord>
@@ -5022,8 +5029,8 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <fret>0</fret>
-              <string>3</string>
+              <fret>5</fret>
+              <string>4</string>
               </Note>
             </Chord>
           <Chord>
@@ -6071,10 +6078,10 @@
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
-            <offset x="0" y="-5.5"/>
+            <offset x="0" y="-4"/>
             </Fermata>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>whole</durationType>
             <Note>
               <pitch>48</pitch>
               <tpc>14</tpc>
@@ -6106,12 +6113,6 @@
               <string>0</string>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         </Measure>
       </Staff>
