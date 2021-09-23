@@ -6115,7 +6115,10 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
+            </Rest>
+          <Rest>
+            <durationType>whole</durationType>
             </Rest>
           </voice>
         </Measure>
