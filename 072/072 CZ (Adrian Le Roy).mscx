@@ -2965,10 +2965,11 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/2">
         <voice>
           <Chord>
-            <durationType>whole</durationType>
+            <dots>1</dots>
+            <durationType>breve</durationType>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -6074,7 +6075,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/2">
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -6113,6 +6114,9 @@
               <string>0</string>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>breve</durationType>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
