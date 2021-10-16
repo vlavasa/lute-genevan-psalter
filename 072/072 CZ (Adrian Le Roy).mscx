@@ -253,11 +253,11 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>ŽALM 72</text>
+          <text>Žałm LXXII.</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>Své, Bože, soudy dávej Králi</text>
+          <text>Deus iudicium tuum Regi da</text>
           </Text>
         </VBox>
       <Measure>
@@ -275,31 +275,30 @@
             <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Lyrics>
-              <text>1. Své,</text>
+              <syllabic>begin</syllabic>
+              <text>1. Prá</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>2. Z hor</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>3. Syn</text>
+              <text>3. Tuť</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
-              <text>4. Lid</text>
+              <text>7. Za</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <text>5. On</text>
+              <syllabic>begin</syllabic>
+              <text>11. Krá</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <text>6. On</text>
+              <no>2</no>
+              <text>5. Tuť</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
-              <text>7. Nad</text>
+              <no>5</no>
+              <syllabic>begin</syllabic>
+              <text>9. K ně</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
@@ -315,38 +314,32 @@
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>Bo</text>
+              <syllabic>end</syllabic>
+              <text>vům</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>při</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>begin</syllabic>
-              <text>Bo</text>
+              <text>ho</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
-              <syllabic>begin</syllabic>
-              <text>pus</text>
+              <text>dnů</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <syllabic>begin</syllabic>
-              <text>tr</text>
+              <syllabic>end</syllabic>
+              <text>lem</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
+              <no>2</no>
               <syllabic>begin</syllabic>
               <text>bu</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>svě</text>
+              <no>5</no>
+              <syllabic>end</syllabic>
+              <text>mu</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
@@ -357,38 +350,30 @@
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
-              <syllabic>end</syllabic>
-              <text>že,</text>
+              <text>svým</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text>jde</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>ží</text>
+              <text>ry</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
-              <syllabic>end</syllabic>
-              <text>tin</text>
+              <syllabic>begin</syllabic>
+              <text>to</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <syllabic>middle</syllabic>
-              <text>pí</text>
+              <text>ho</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
+              <no>2</no>
               <syllabic>end</syllabic>
               <text>de</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>tem</text>
+              <no>5</no>
+              <text>i</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
@@ -404,37 +389,30 @@
             <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>sou</text>
+              <text>rač</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
+              <text>též</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>ho</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <text>svým</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
               <syllabic>begin</syllabic>
               <text>po</text>
               </Lyrics>
             <Lyrics>
-              <no>3</no>
+              <no>5</no>
               <syllabic>begin</syllabic>
-              <text>bu</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>begin</syllabic>
-              <text>hla</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>middle</syllabic>
-              <text>cí</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <text>žít,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>do</text>
+              <text>z pus</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -450,37 +428,29 @@
             <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Lyrics>
-              <syllabic>end</syllabic>
-              <text>dy</text>
+              <text>ó</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>end</syllabic>
-              <text>koj</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>de</text>
+              <text>i</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
-              <syllabic>end</syllabic>
-              <text>vu</text>
+              <text>tak</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <syllabic>end</syllabic>
-              <text>ho</text>
+              <text>též</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <text>nad</text>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>cty</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
+              <no>5</no>
               <syllabic>end</syllabic>
-              <text>kud</text>
+              <text>tin</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
@@ -497,36 +467,32 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>dá</text>
+              <text>Bo</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>po</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
               <syllabic>begin</syllabic>
-              <text>se</text>
+              <text>pa</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <syllabic>begin</syllabic>
-              <text>v úc</text>
+              <text>ctné</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
               <syllabic>begin</syllabic>
-              <text>vy</text>
+              <text>bu</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
+              <no>2</no>
               <syllabic>begin</syllabic>
-              <text>Sá</text>
+              <text>Bo</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
+              <no>5</no>
               <syllabic>begin</syllabic>
-              <text>slun</text>
+              <text>nej</text>
               </Lyrics>
             <Note>
               <pitch>80</pitch>
@@ -538,42 +504,130 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>vej</text>
+              <text>že</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>vod</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
               <syllabic>middle</syllabic>
-              <text>stu</text>
+              <text>hrb</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <syllabic>end</syllabic>
-              <text>tě</text>
+              <text>ho</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
+              <syllabic>end</syllabic>
+              <text>dou</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>ží</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
               <syllabic>middle</syllabic>
-              <text>svo</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>by</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>ce</text>
+              <text>hłou</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.9</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>své</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>ko</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>krá</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>begin</syllabic>
+              <text>zná</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>hoj</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>middle</syllabic>
+              <text>pěj</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.9</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ho</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>vé</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>le</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>end</syllabic>
+              <text>ti</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>nost</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>end</syllabic>
+              <text>ší</text>
+              </Lyrics>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.9</stretch>
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -588,128 +642,26 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>prou</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>middle</syllabic>
-              <text>po</text>
+              <text>Ve</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <syllabic>begin</syllabic>
-              <text>sklo</text>
+              <text>Zkve</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <syllabic>middle</syllabic>
-              <text>bo</text>
+              <text>I</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
+              <no>2</no>
               <syllabic>begin</syllabic>
-              <text>zla</text>
+              <text>Všu</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
+              <no>5</no>
               <syllabic>begin</syllabic>
-              <text>vstá</text>
-              </Lyrics>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.9</stretch>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>li,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>end</syllabic>
-              <text>du,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>vat</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>end</syllabic>
-              <text>ní,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>end</syllabic>
-              <text>dí,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>to</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>vá,</text>
-              </Lyrics>
-            <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.9</stretch>
-        <voice>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.9</stretch>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <text>ať</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <text>lid</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>tak</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <text>v prach</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <text>když</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <text>jej</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <text>Bůh</text>
+              <text>Bu</text>
               </Lyrics>
             <Note>
               <pitch>77</pitch>
@@ -725,18 +677,1281 @@
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
+              <syllabic>end</syllabic>
+              <text>le</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>vší</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>tne</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
               <syllabic>begin</syllabic>
-              <text>ce</text>
+              <text>ji</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>dy</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>end</syllabic>
+              <text>dou</text>
+              </Lyrics>
+            <Note>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>vy</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>pra</text>
+              <text>spra</text>
               </Lyrics>
             <Lyrics>
-              <no>3</no>
+              <no>4</no>
               <syllabic>begin</syllabic>
+              <text>spra</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>end</syllabic>
+              <text>ní</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>pro</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>begin</syllabic>
+              <text>po</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.9</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>u</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>ve</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>middle</syllabic>
+              <text>ve</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>begin</syllabic>
+              <text>Krá</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>middle</syllabic>
+              <text>kví</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>middle</syllabic>
+              <text>spí</text>
+              </Lyrics>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.9</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>či</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>dlno</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>middle</syllabic>
+              <text>dli</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>middle</syllabic>
+              <text>lo</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>middle</syllabic>
+              <text>ta</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>middle</syllabic>
+              <text>cha</text>
+              </Lyrics>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.9</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ti;</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>sti;</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>vý;</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>end</syllabic>
+              <text>vé;</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>ti;</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>end</syllabic>
+              <text>ti;</text>
+              </Lyrics>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.9</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.8</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <text>V nich</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>Vy</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>Stvr</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>begin</syllabic>
+              <text>V słu</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>Do</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <text>Prach</text>
+              </Lyrics>
+            <Note>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.8</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Lyrics>
+              <text>i</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>dá</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>zen</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>end</syllabic>
+              <text>žbu</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>kudž</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <text>noh</text>
+              </Lyrics>
+            <Note>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>Sy</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>va</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>bu</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>begin</syllabic>
+              <text>je</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>mě</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>begin</syllabic>
+              <text>je</text>
+              </Lyrics>
+            <Note>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.8</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>na</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
               <text>ti</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>de</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>end</syllabic>
+              <text>mu</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>síc</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>end</syllabic>
+              <text>ho,</text>
+              </Lyrics>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.8</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>z ně</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>bu</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <text>též</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <text>se</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <text>i</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <text>i</text>
+              </Lyrics>
+            <Note>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.8</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ho</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>dou</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>do</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>begin</syllabic>
+              <text>od</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>słun</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>begin</syllabic>
+              <text>nej</text>
+              </Lyrics>
+            <Note>
+              <pitch>80</pitch>
+              <tpc>10</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>po</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>po</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>middle</syllabic>
+              <text>ko</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>middle</syllabic>
+              <text>dá</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>ce</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>middle</syllabic>
+              <text>chy</text>
+              </Lyrics>
+            <Note>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.8</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>šłé</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>ko</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>middle</syllabic>
+              <text>ná</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>middle</syllabic>
+              <text>va</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>ja</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>middle</syllabic>
+              <text>třej</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.8</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ho</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>je</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>le</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>end</syllabic>
+              <text>ti</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>snost</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>end</syllabic>
+              <text>ší</text>
+              </Lyrics>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.8</stretch>
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.8</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>Jas</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>Všem</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>Po</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>begin</syllabic>
+              <text>Vši</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>Bu</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <text>Na</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.8</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ně</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>li</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>koj</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>end</syllabic>
+              <text>ckni</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>dou</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>begin</syllabic>
+              <text>ze</text>
+              </Lyrics>
+            <Note>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>o</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>dem</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>žá</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>begin</syllabic>
+              <text>ná</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>vy</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>end</syllabic>
+              <text>mi</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.8</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>sví</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>v ho</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>middle</syllabic>
+              <text>do</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>middle</syllabic>
+              <text>ro</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>middle</syllabic>
+              <text>dá</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>begin</syllabic>
+              <text>lí</text>
+              </Lyrics>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.8</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>ti</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>jno</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>middle</syllabic>
+              <text>sti</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>middle</syllabic>
+              <text>do</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>middle</syllabic>
+              <text>va</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>middle</syllabic>
+              <text>za</text>
+              </Lyrics>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.8</stretch>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ti;</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>sti.</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>vý:</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>end</syllabic>
+              <text>vé.</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>ti:</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>end</syllabic>
+              <text>ti:</text>
+              </Lyrics>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>2. V lí</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>4. Neb</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <text>8. Onť</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <text>12. Neb</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <text>6. Bůh</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>begin</syllabic>
+              <text>10. Bu</text>
+              </Lyrics>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>bez</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>on</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <text>od</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>begin</syllabic>
+              <text>chu</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>ta</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>end</syllabic>
+              <text>dou</text>
+              </Lyrics>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>né</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>bu</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>to</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>end</syllabic>
+              <text>dé</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>ké</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <text>i</text>
+              </Lyrics>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>to</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>de</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>ho</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>begin</syllabic>
+              <text>bu</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>bu</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>begin</syllabic>
+              <text>krá</text>
+              </Lyrics>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>bě</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>chu</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>mo</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>end</syllabic>
+              <text>de</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>de</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>middle</syllabic>
+              <text>lo</text>
+              </Lyrics>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>spra</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>dých</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>ře</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>begin</syllabic>
+              <text>vy</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>da</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>end</syllabic>
+              <text>vé</text>
+              </Lyrics>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>ve</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>o</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>k dru</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>middle</syllabic>
+              <text>słý</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>ry</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>begin</syllabic>
+              <text>zá</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>dlno</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>chrán</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>middle</syllabic>
+              <text>hé</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>middle</syllabic>
+              <text>cha</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>svý</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>middle</syllabic>
+              <text>moř</text>
+              </Lyrics>
+            <Note>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>sti</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>ce</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>mu</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>end</syllabic>
+              <text>ti</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>mi</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>end</syllabic>
+              <text>ští</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>whole</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <text>Byť</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>Py</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>begin</syllabic>
+              <text>Bu</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>begin</syllabic>
+              <text>Ry</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <text>Svět</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>begin</syllabic>
+              <text>Da</text>
+              </Lyrics>
+            <Note>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Lyrics>
+              <text>tvůj</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>šných</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>de</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>end</syllabic>
+              <text>chle</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>zbo</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>end</syllabic>
+              <text>ry</text>
+              </Lyrics>
+            <Note>
+              <pitch>80</pitch>
+              <tpc>10</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Lyrics>
+              <text>lid</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>pa</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
@@ -745,60 +1960,94 @@
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <syllabic>begin</syllabic>
-              <text>vo</text>
+              <text>v jich</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>bu</text>
+              <no>2</no>
+              <syllabic>middle</syllabic>
+              <text>ha</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>bu</text>
+              <no>5</no>
+              <text>mu</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
-              <syllabic>end</syllabic>
-              <text>lou</text>
+              <syllabic>begin</syllabic>
+              <text>zpra</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>end</syllabic>
-              <text>vdou</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>še</text>
+              <syllabic>begin</syllabic>
+              <text>ne</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
-              <syllabic>end</syllabic>
-              <text>dne</text>
+              <syllabic>middle</syllabic>
+              <text>no</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <syllabic>end</syllabic>
-              <text>lá</text>
+              <syllabic>begin</syllabic>
+              <text>vo</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>dou</text>
+              <no>2</no>
+              <syllabic>middle</syllabic>
+              <text>co</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>de</text>
+              <no>5</no>
+              <syllabic>begin</syllabic>
+              <text>dá</text>
+              </Lyrics>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>vo</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>pří</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>middle</syllabic>
+              <text>va</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>middle</syllabic>
+              <text>łá</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>middle</syllabic>
+              <text>va</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>middle</syllabic>
+              <text>va</text>
               </Lyrics>
             <Note>
               <pitch>77</pitch>
@@ -808,44 +2057,38 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>spra</text>
+              <syllabic>end</syllabic>
+              <text>vał</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>ob</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>begin</syllabic>
-              <text>v du</text>
+              <syllabic>end</syllabic>
+              <text>tel</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
-              <syllabic>begin</syllabic>
-              <text>ne</text>
+              <syllabic>end</syllabic>
+              <text>ti</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <syllabic>begin</syllabic>
-              <text>v nou</text>
+              <syllabic>end</syllabic>
+              <text>ní</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>sla</text>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>ti</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>o</text>
+              <no>5</no>
+              <syllabic>end</syllabic>
+              <text>ti</text>
               </Lyrics>
             <Note>
               <pitch>75</pitch>
@@ -855,98 +2098,6 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <syllabic>middle</syllabic>
-              <text>ved</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>middle</syllabic>
-              <text>ro</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>še</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>middle</syllabic>
-              <text>pří</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>end</syllabic>
-              <text>zi</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>vit</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>middle</syllabic>
-              <text>sla</text>
-              </Lyrics>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.9</stretch>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>nost</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>end</syllabic>
-              <text>díš.</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>všem</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>end</syllabic>
-              <text>tel,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <text>své.</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <text>jen,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>ven,</text>
-              </Lyrics>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.9</stretch>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -957,37 +2108,36 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Lyrics>
-              <text>má</text>
+              <text>Ctných</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>Své</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>jak</text>
+              <syllabic>begin</syllabic>
+              <text>Ssou</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
-              <text>zrak</text>
+              <syllabic>begin</syllabic>
+              <text>Ná</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <text>Bez</text>
+              <syllabic>begin</syllabic>
+              <text>Ná</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <text>a</text>
+              <no>2</no>
+              <text>Tu</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
-              <text>lid</text>
+              <no>5</no>
+              <syllabic>begin</syllabic>
+              <text>Vši</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
@@ -997,233 +2147,59 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
-              <text>Syn</text>
+              <syllabic>begin</syllabic>
+              <text>chrá</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>chu</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>begin</syllabic>
-              <text>ro</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>begin</syllabic>
-              <text>vlá</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>begin</syllabic>
-              <text>po</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>mod</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>po</text>
-              </Lyrics>
-            <Note>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Lyrics>
-              <text>tvůj,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>end</syllabic>
-              <text>dé,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>sa</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>end</syllabic>
-              <text>dci</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>middle</syllabic>
-              <text>moc</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>middle</syllabic>
-              <text>lit</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
               <syllabic>middle</syllabic>
               <text>že</text>
               </Lyrics>
-            <Note>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.8</stretch>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>v prav</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>sy</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>v luh,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>begin</syllabic>
-              <text>o</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>middle</syllabic>
-              <text>ní</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>middle</syllabic>
-              <text>ba</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>middle</syllabic>
-              <text>hná</text>
-              </Lyrics>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.8</stretch>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>dě</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>end</syllabic>
-              <text>ny</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>jenž</text>
-              </Lyrics>
             <Lyrics>
               <no>4</no>
               <syllabic>middle</syllabic>
-              <text>stro</text>
+              <text>ro</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
               <syllabic>end</syllabic>
-              <text>ka</text>
+              <text>tisk</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>mi</text>
+              <no>2</no>
+              <text>vše,</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
+              <no>5</no>
               <syllabic>end</syllabic>
-              <text>ní</text>
+              <text>ckni</text>
               </Lyrics>
             <Note>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.8</stretch>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>do</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>nuz</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>begin</syllabic>
-              <text>par</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>end</syllabic>
-              <text>vů</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <text>sám</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>chvá</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <text>v něm</text>
-              </Lyrics>
-            <Note>
-              <pitch>80</pitch>
-              <tpc>10</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
-              <syllabic>middle</syllabic>
-              <text>ko</text>
+              <syllabic>end</syllabic>
+              <text>ně</text>
+              </Lyrics>
+            <Lyrics>
+              <no>4</no>
+              <syllabic>end</syllabic>
+              <text>du</text>
+              </Lyrics>
+            <Lyrics>
+              <no>6</no>
+              <syllabic>begin</syllabic>
+              <text>tr</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1231,121 +2207,13 @@
               <text>ných</text>
               </Lyrics>
             <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>nem</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <text>si</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <text>kdo</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>lit</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
+              <no>2</no>
               <syllabic>begin</syllabic>
-              <text>do</text>
-              </Lyrics>
-            <Note>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.8</stretch>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <syllabic>middle</syllabic>
-              <text>na</text>
+              <text>ja</text>
               </Lyrics>
             <Lyrics>
-              <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>v sou</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>begin</syllabic>
-              <text>po</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>begin</syllabic>
-              <text>clo</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>begin</syllabic>
-              <text>cho</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>nad</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>middle</syllabic>
-              <text>stá</text>
-              </Lyrics>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.8</stretch>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>lý.</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>end</syllabic>
-              <text>du</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>vad ',</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>end</syllabic>
-              <text>ní,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>end</syllabic>
-              <text>dí,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>to</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>vá,</text>
+              <no>5</no>
+              <text>od</text>
               </Lyrics>
             <Note>
               <pitch>75</pitch>
@@ -1355,1114 +2223,37 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
-        <voice>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.8</stretch>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <text>Jen</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <text>sám,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>jak</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <text>tak</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <text>tu</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <text>na</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <text>Pán</text>
-              </Lyrics>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.8</stretch>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
-              <text>jím,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>Bo</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>déšť,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>begin</syllabic>
-              <text>zá</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
               <syllabic>begin</syllabic>
               <text>po</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>ka</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>vše</text>
-              </Lyrics>
-            <Note>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Lyrics>
-              <text>všech</text>
-              </Lyrics>
-            <Lyrics>
               <no>1</no>
-              <syllabic>end</syllabic>
-              <text>že,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>jenž</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>end</syllabic>
-              <text>ří</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>end</syllabic>
-              <text>zná</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>ždý</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>mi</text>
-              </Lyrics>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.8</stretch>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>ú</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>vy</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>begin</syllabic>
-              <text>skrá</text>
+              <text>sám</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <syllabic>begin</syllabic>
-              <text>Spa</text>
+              <text>svě</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <syllabic>begin</syllabic>
-              <text>te</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>no</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <text>buď</text>
-              </Lyrics>
-            <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.8</stretch>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>hon</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
               <syllabic>middle</syllabic>
-              <text>pro</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
               <text>pí</text>
               </Lyrics>
             <Lyrics>
-              <no>4</no>
-              <syllabic>middle</syllabic>
-              <text>si</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>middle</syllabic>
-              <text>pr</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
+              <no>2</no>
               <syllabic>end</syllabic>
-              <text>vý</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>chvá</text>
-              </Lyrics>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.8</stretch>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <text>prost,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>end</syllabic>
-              <text>stíš.</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>zem.</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>end</syllabic>
-              <text>tel.</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>end</syllabic>
-              <text>ve,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <text>den.</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>len.</text>
-              </Lyrics>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.8</stretch>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
-        <voice>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <text>tvůj</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <text>Když</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>V dnech</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <text>A</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <text>kdo</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <text>Hrst</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <text>Div</text>
-              </Lyrics>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Lyrics>
-              <text>lid</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>ty</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>begin</syllabic>
-              <text>je</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>begin</syllabic>
-              <text>při</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <text>nad</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>o</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>di</text>
-              </Lyrics>
-            <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>o</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>end</syllabic>
-              <text>ran</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>ho</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>middle</syllabic>
-              <text>ne</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>begin</syllabic>
-              <text>po</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>middle</syllabic>
-              <text>bi</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>vů</text>
-              </Lyrics>
-            <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Lyrics>
-              <syllabic>middle</syllabic>
-              <text>spra</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>zhy</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>begin</syllabic>
-              <text>zkve</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>end</syllabic>
-              <text>se</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>middle</syllabic>
-              <text>třeb</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>lí</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>k slá</text>
-              </Lyrics>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Lyrics>
-              <syllabic>middle</syllabic>
-              <text>ve</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>end</syllabic>
-              <text>ne,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>tou</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <text>mu</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>end</syllabic>
-              <text>ným</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <text>dá</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>vě</text>
-              </Lyrics>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Lyrics>
-              <syllabic>middle</syllabic>
-              <text>dl</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>bá</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>begin</syllabic>
-              <text>spra</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>begin</syllabic>
-              <text>da</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>begin</syllabic>
-              <text>smi</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>vý</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>své</text>
-              </Lyrics>
-            <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>něn</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>end</syllabic>
-              <text>zeň</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>middle</syllabic>
-              <text>ve</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>end</syllabic>
-              <text>ry</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>middle</syllabic>
-              <text>lu</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>ši</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>ho</text>
-              </Lyrics>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>sta</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>pra</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>middle</syllabic>
-              <text>dli</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>begin</syllabic>
-              <text>k po</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>end</syllabic>
-              <text>je</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>kla</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>jmé</text>
-              </Lyrics>
-            <Note>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>ne</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>end</syllabic>
-              <text>vá</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>ví</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>end</syllabic>
-              <text>ctě</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <text>se,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>sů</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>na</text>
-              </Lyrics>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <text>již</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <text>lid</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>až</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>begin</syllabic>
-              <text>A</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <text>v kom</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <text>jak</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <text>sám</text>
-              </Lyrics>
-            <Note>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Lyrics>
-              <text>bez</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>Bo</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>begin</syllabic>
-              <text>ze</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>end</syllabic>
-              <text>rab</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>begin</syllabic>
-              <text>pra</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>Li</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>či</text>
-              </Lyrics>
-            <Note>
-              <pitch>80</pitch>
-              <tpc>10</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
               <text>ko</text>
               </Lyrics>
             <Lyrics>
-              <no>1</no>
-              <syllabic>end</syllabic>
-              <text>ží</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>mě</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <text>i</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>end</syllabic>
-              <text>vá</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>bán</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>ní,</text>
-              </Lyrics>
-            <Note>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Lyrics>
-              <syllabic>middle</syllabic>
-              <text>lí</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
+              <no>5</no>
               <syllabic>begin</syllabic>
-              <text>o</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>do</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>begin</syllabic>
-              <text>Ha</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>begin</syllabic>
-              <text>spá</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>vl</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>že</text>
-              </Lyrics>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Lyrics>
-              <syllabic>middle</syllabic>
-              <text>sá</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>middle</syllabic>
-              <text>čis</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>begin</syllabic>
-              <text>kon</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>middle</syllabic>
-              <text>be</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>end</syllabic>
-              <text>sa</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>middle</syllabic>
-              <text>ni</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>hná</text>
-              </Lyrics>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>ní.</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>end</syllabic>
-              <text>tí.</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>čin,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>end</syllabic>
-              <text>šan,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <text>je.</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>vých,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <text>všem.</text>
-              </Lyrics>
-            <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
-        <voice>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Lyrics>
-              <text>Tví</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <text>Zář</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>jak</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <text>do</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <text>Vždyť</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <text>a</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <text>Buď</text>
-              </Lyrics>
-            <Note>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>chu</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>do</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>begin</syllabic>
-              <text>mě</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>begin</syllabic>
-              <text>je</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>begin</syllabic>
-              <text>je</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>Bo</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>je</text>
-              </Lyrics>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>dí,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>end</syllabic>
-              <text>kud</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>síc</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>end</syllabic>
-              <text>ho</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>end</syllabic>
-              <text>mu,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>ží</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>ho</text>
-              </Lyrics>
-            <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>half</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>v mi</text>
-              </Lyrics>
-            <Lyrics>
-              <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>slun</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>begin</syllabic>
-              <text>vlá</text>
-              </Lyrics>
-            <Lyrics>
-              <no>4</no>
-              <syllabic>begin</syllabic>
-              <text>slu</text>
-              </Lyrics>
-            <Lyrics>
-              <no>6</no>
-              <syllabic>begin</syllabic>
-              <text>kte</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <text>lid</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>slá</text>
+              <text>ně</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2474,37 +2265,33 @@
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
-              <syllabic>middle</syllabic>
-              <text>lo</text>
+              <syllabic>end</syllabic>
+              <text>dlé</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>end</syllabic>
-              <text>ce,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>dne</text>
+              <syllabic>begin</syllabic>
+              <text>mo</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <syllabic>end</syllabic>
-              <text>žby</text>
+              <text>ta</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
               <syllabic>end</syllabic>
-              <text>rý</text>
+              <text>cích</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <text>kvést</text>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>de</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
+              <no>5</no>
               <syllabic>end</syllabic>
-              <text>vou</text>
+              <text>ho</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2520,35 +2307,32 @@
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
-              <syllabic>end</syllabic>
-              <text>sti</text>
+              <syllabic>begin</syllabic>
+              <text>pří</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>mě</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>nad</text>
+              <syllabic>end</syllabic>
+              <text>cný</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
-              <text>dá</text>
+              <syllabic>begin</syllabic>
+              <text>vše</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <text>kříž</text>
+              <syllabic>begin</syllabic>
+              <text>re</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>bu</text>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>šti</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>na</text>
+              <no>5</no>
+              <text>i</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2560,35 +2344,33 @@
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
-              <text>jim</text>
+              <syllabic>middle</syllabic>
+              <text>słuš</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>end</syllabic>
-              <text>síc</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
               <syllabic>begin</syllabic>
-              <text>pří</text>
+              <text>zá</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
-              <text>se</text>
+              <syllabic>middle</syllabic>
+              <text>li</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <text>sám</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>de</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
               <syllabic>middle</syllabic>
-              <text>pl</text>
+              <text>to</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>ča</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>begin</syllabic>
+              <text>A</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2604,38 +2386,33 @@
             <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>da</text>
+              <syllabic>middle</syllabic>
+              <text>no</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>dá</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
               <syllabic>middle</syllabic>
-              <text>li</text>
+              <text>stup</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
-              <syllabic>begin</syllabic>
-              <text>v úc</text>
+              <syllabic>middle</syllabic>
+              <text>ké</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <syllabic>begin</syllabic>
-              <text>ne</text>
-              </Lyrics>
-            <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>v krá</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
               <syllabic>middle</syllabic>
-              <text>ně</text>
+              <text>va</text>
+              </Lyrics>
+            <Lyrics>
+              <no>2</no>
+              <syllabic>middle</syllabic>
+              <text>sný</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>middle</syllabic>
+              <text>ráb</text>
               </Lyrics>
             <Note>
               <pitch>75</pitch>
@@ -2651,36 +2428,32 @@
             <durationType>whole</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>né,</text>
+              <text>sti</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text>vá,</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>vy,</text>
+              <text>ce</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <syllabic>end</syllabic>
-              <text>tě</text>
+              <text>mu</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
               <syllabic>end</syllabic>
-              <text>se,</text>
+              <text>ti</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <text>su</text>
-              </Lyrics>
-            <Lyrics>
-              <no>9</no>
+              <no>2</no>
               <syllabic>end</syllabic>
-              <text>na</text>
+              <text>mi</text>
+              </Lyrics>
+            <Lyrics>
+              <no>5</no>
+              <syllabic>end</syllabic>
+              <text>ští</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -2702,31 +2475,31 @@
             <BeamMode>no</BeamMode>
             <durationType>whole</durationType>
             <Lyrics>
-              <text>mít</text>
+              <syllabic>begin</syllabic>
+              <text>Zło</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>jej</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>tak</text>
+              <syllabic>begin</syllabic>
+              <text>Ty</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
-              <text>lid</text>
+              <text>Sám</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <text>krev</text>
+              <text>Jimž</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <text>všech</text>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>Bu</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
-              <text>na</text>
+              <no>5</no>
+              <syllabic>begin</syllabic>
+              <text>Lé</text>
               </Lyrics>
             <Note>
               <pitch>75</pitch>
@@ -2741,38 +2514,33 @@
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>bu</text>
+              <syllabic>end</syllabic>
+              <text>sti</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>pro</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>begin</syllabic>
-              <text>srd</text>
+              <syllabic>middle</syllabic>
+              <text>ra</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
               <syllabic>begin</syllabic>
-              <text>ci</text>
+              <text>ro</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
               <syllabic>begin</syllabic>
-              <text>je</text>
+              <text>po</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>plod</text>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>de</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>vě</text>
+              <no>5</no>
+              <syllabic>end</syllabic>
+              <text>no</text>
               </Lyrics>
             <Note>
               <pitch>77</pitch>
@@ -2783,38 +2551,33 @@
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
-              <syllabic>end</syllabic>
-              <text>dou</text>
+              <syllabic>begin</syllabic>
+              <text>pře</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>middle</syllabic>
-              <text>ná</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
               <syllabic>end</syllabic>
-              <text>cím</text>
+              <text>nů</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
-              <syllabic>end</syllabic>
-              <text>zí</text>
+              <syllabic>middle</syllabic>
+              <text>zka</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <syllabic>end</syllabic>
-              <text>jich</text>
+              <syllabic>middle</syllabic>
+              <text>mo</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>ných</text>
+              <no>2</no>
+              <syllabic>begin</syllabic>
+              <text>o</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>ky</text>
+              <no>5</no>
+              <syllabic>begin</syllabic>
+              <text>při</text>
               </Lyrics>
             <Note>
               <pitch>75</pitch>
@@ -2829,37 +2592,32 @@
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>za</text>
+              <syllabic>middle</syllabic>
+              <text>tr</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>middle</syllabic>
-              <text>ro</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>begin</syllabic>
-              <text>Bo</text>
+              <text>všech</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
-              <text>ze</text>
+              <syllabic>middle</syllabic>
+              <text>zo</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <syllabic>begin</syllabic>
-              <text>dra</text>
+              <syllabic>end</syllabic>
+              <text>ci</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <syllabic>begin</syllabic>
-              <text>po</text>
+              <no>2</no>
+              <syllabic>middle</syllabic>
+              <text>kří</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
-              <syllabic>begin</syllabic>
-              <text>vše</text>
+              <no>5</no>
+              <syllabic>middle</syllabic>
+              <text>jí</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2872,36 +2630,32 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>stá</text>
+              <text>ho</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>end</syllabic>
-              <text>dy</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <syllabic>end</syllabic>
-              <text>ží</text>
+              <syllabic>begin</syllabic>
+              <text>msti</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
-              <text>všech</text>
+              <syllabic>middle</syllabic>
+              <text>va</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <syllabic>end</syllabic>
-              <text>há</text>
+              <syllabic>begin</syllabic>
+              <text>ne</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <syllabic>end</syllabic>
-              <text>lí</text>
+              <no>2</no>
+              <syllabic>middle</syllabic>
+              <text>va</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
-              <syllabic>end</syllabic>
-              <text>chna</text>
+              <no>5</no>
+              <syllabic>middle</syllabic>
+              <text>ma</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2922,31 +2676,32 @@
             <durationType>whole</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ní.</text>
+              <text>vał.</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>ctí.</text>
-              </Lyrics>
-            <Lyrics>
-              <no>3</no>
-              <text>Syn.</text>
+              <syllabic>end</syllabic>
+              <text>tel.</text>
               </Lyrics>
             <Lyrics>
               <no>4</no>
-              <text>stran.</text>
+              <syllabic>end</syllabic>
+              <text>ti.</text>
               </Lyrics>
             <Lyrics>
               <no>6</no>
-              <text>je.</text>
+              <syllabic>end</syllabic>
+              <text>ní.</text>
               </Lyrics>
             <Lyrics>
-              <no>7</no>
-              <text>svých.</text>
+              <no>2</no>
+              <syllabic>end</syllabic>
+              <text>ti.</text>
               </Lyrics>
             <Lyrics>
-              <no>9</no>
-              <text>zem!</text>
+              <no>5</no>
+              <syllabic>end</syllabic>
+              <text>ti.</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
