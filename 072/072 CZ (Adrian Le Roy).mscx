@@ -589,7 +589,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
-              <text>ved</text>
+              <text>vedl</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -994,7 +994,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>v ho</text>
+              <text>v hoj</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -1021,7 +1021,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
-              <text>jno</text>
+              <text>no</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -1221,7 +1221,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>ved</text>
+              <text>vedl</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1354,7 +1354,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>pa</text>
+              <text>pak</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -1602,7 +1602,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>słuš</text>
+              <text>słu</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1629,7 +1629,7 @@
             <durationType>whole</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>no</text>
+              <text>šno</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1872,7 +1872,7 @@
         <width>56.86</width>
         <Text>
           <style>Frame</style>
-          <offset x="10" y="0"/>
+          <offset x="16" y="0"/>
           <text>7.   Za dnů toho tak ctného krále
       Zkvetne spravedlivý;
       Stvrzen bude též dokonále
@@ -1905,9 +1905,9 @@
         <width>56.86</width>
         <Text>
           <style>Frame</style>
-          <offset x="10" y="0"/>
+          <offset x="16" y="0"/>
           <text>13. V nouzi a bídě tápajícím
-      Bude lítostivý,
+      Bude lítostivý;
       V strachu hořké smrti stojícím
       V pomoci hotový:
 14. Od łsti a násilí každého
@@ -1919,13 +1919,13 @@
       Bude dłouhověký;
       K jehož hojnější cti a słávě
       Půjde jemu vždycky
-      V hojnosti zlata Arábského;
+      V hojnosti złata Arábského;
       Zaň se i modliti
       V každý čas, budou trůnu jeho
       I dobrořečiti.
 
 16. Tuť bude hojně co v hrst vzíti
-      V čas žně i pustinách;
+      V čas žně i v pustinách;
       Ourody tak se budou chvíti
       Jako <u>cedr</u> na horách:
       Lidé v dědinách též přejasně
@@ -1938,9 +1938,9 @@
         <width>56.86</width>
         <Text>
           <style>Frame</style>
-          <offset x="10" y="0"/>
+          <offset x="16" y="0"/>
           <text>17. Jméno a čest tohoto krále
-      Má věčně trvati,
+      Má věčně trvati;
       Dokavadž svůj běh słunce stále
       Bude vždy konati:
       Všickni na světa širokosti
@@ -1951,7 +1951,7 @@
 18. Hospodin Bůh, buď hodně chválen
       Bůh náš Izraelský;
       Kterýž činí sám na každý den
-      Divné věci všecky;
+      Divné věci všecky:
       Budiž svaté zvelebováno
       Jméno słávy jeho
       V známost i čest uvozováno
