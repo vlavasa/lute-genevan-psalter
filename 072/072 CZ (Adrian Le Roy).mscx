@@ -20,6 +20,10 @@
       <enableVerticalSpread>1</enableVerticalSpread>
       <minSpreadSpread>14</minSpreadSpread>
       <maxSpreadSpread>14</maxSpreadSpread>
+      <lyricsOddFontSize>11</lyricsOddFontSize>
+      <lyricsOddFontStyle>2</lyricsOddFontStyle>
+      <lyricsEvenFontSize>11</lyricsEvenFontSize>
+      <lyricsEvenFontStyle>2</lyricsEvenFontStyle>
       <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
       <crossMeasureValues>1</crossMeasureValues>
       <Spatium>1.6</Spatium>
@@ -167,7 +171,7 @@
           <durationFontSize>15</durationFontSize>
           <durationFontY>0</durationFontY>
           <fretFontName>MuseScore Tab Renaiss</fretFontName>
-          <fretFontSize>10</fretFontSize>
+          <fretFontSize>11</fretFontSize>
           <fretFontY>0</fretFontY>
           <symbolRepeat>2</symbolRepeat>
           <linesThrough>1</linesThrough>
@@ -1865,15 +1869,18 @@
           </voice>
         </Measure>
       <VBox>
-        <height>10</height>
+        <height>4</height>
         <topGap>0</topGap>
         <bottomGap>0</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         </VBox>
       <HBox>
         <width>56.86</width>
         <Text>
           <style>Frame</style>
-          <offset x="16" y="0"/>
+          <size>11</size>
+          <italic>1</italic>
+          <offset x="10" y="0"/>
           <text>7.   Za dnů toho tak ctného krále
       Zkvetne spravedlivý;
       Stvrzen bude též dokonále
@@ -1906,7 +1913,9 @@
         <width>56.86</width>
         <Text>
           <style>Frame</style>
-          <offset x="16" y="0"/>
+          <size>11</size>
+          <italic>1</italic>
+          <offset x="10" y="0"/>
           <text>13. V nouzi a bídě tápajícím
       Bude lítostivý;
       V strachu hořké smrti stojícím
@@ -1939,7 +1948,9 @@
         <width>56.86</width>
         <Text>
           <style>Frame</style>
-          <offset x="16" y="0"/>
+          <size>11</size>
+          <italic>1</italic>
+          <offset x="10" y="0"/>
           <text>17. Jméno a čest tohoto krále
       Má věčně trvati;
       Dokavadž svůj běh słunce stále
