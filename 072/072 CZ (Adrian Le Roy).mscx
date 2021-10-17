@@ -257,6 +257,7 @@
           </Text>
         <Text>
           <style>Subtitle</style>
+          <italic>1</italic>
           <text>Deus iudicium tuum Regi da</text>
           </Text>
         </VBox>
