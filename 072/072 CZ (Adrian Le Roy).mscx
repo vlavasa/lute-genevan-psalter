@@ -25,6 +25,14 @@
       <lyricsEvenFontSize>11</lyricsEvenFontSize>
       <lyricsEvenFontStyle>2</lyricsEvenFontStyle>
       <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
+      <evenHeaderL></evenHeaderL>
+      <evenHeaderR>$p</evenHeaderR>
+      <oddHeaderL>$p</oddHeaderL>
+      <oddHeaderR></oddHeaderR>
+      <evenFooterC>Žałm LXXII.
+$:copyright:</evenFooterC>
+      <oddFooterC>Žałm LXXII.
+$:copyright:</oddFooterC>
       <crossMeasureValues>1</crossMeasureValues>
       <Spatium>1.6</Spatium>
       </Style>
@@ -34,7 +42,7 @@
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composer"></metaTag>
-    <metaTag name="copyright"></metaTag>
+    <metaTag name="copyright">© 2021 This work is licensed under a Creative Commons Attribution 4.0 International License.</metaTag>
     <metaTag name="creationDate">2021-09-19</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
