@@ -21,6 +21,7 @@
       <minSpreadSpread>9.5</minSpreadSpread>
       <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
       <crossMeasureValues>1</crossMeasureValues>
+      <subTitleFontStyle>2</subTitleFontStyle>
       <Spatium>1.6</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -246,11 +247,11 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>ŽALM 33</text>
+          <text>Žałm XXXIII.</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>Rozveselte se v Hospodinu</text>
+          <text>Exultate iusti in Domino </text>
           </Text>
         </VBox>
       <Measure>
@@ -272,7 +273,7 @@
             <durationType>whole</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Roz</text>
+              <text>1. Roz</text>
               </Lyrics>
             <Note>
               <pitch>60</pitch>
@@ -1353,12 +1354,11 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="6/2">
+      <Measure>
         <stretch>0.9</stretch>
         <voice>
           <Chord>
-            <dots>1</dots>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -3724,16 +3724,16 @@
               <string>3</string>
               </Note>
             <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              <fret>0</fret>
-              <string>1</string>
-              </Note>
-            <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
               <fret>0</fret>
               <string>2</string>
+              </Note>
+            <Note>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <fret>0</fret>
+              <string>1</string>
               </Note>
             </Chord>
           </voice>
@@ -4852,13 +4852,13 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="6/2">
+      <Measure>
         <slashStyle>1</slashStyle>
         <stemless>1</stemless>
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
-            <offset x="0" y="-3.5"/>
+            <offset x="0" y="-4"/>
             </Fermata>
           <Chord>
             <durationType>whole</durationType>
@@ -4893,12 +4893,6 @@
               <string>0</string>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
           </voice>
         </Measure>
       </Staff>
