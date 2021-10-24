@@ -16,14 +16,16 @@
       <pageEvenBottomMargin>0.472441</pageEvenBottomMargin>
       <pageOddTopMargin>0.472441</pageOddTopMargin>
       <pageOddBottomMargin>0.472441</pageOddBottomMargin>
+      <staffUpperBorder>5</staffUpperBorder>
       <staffLowerBorder>3</staffLowerBorder>
       <enableVerticalSpread>1</enableVerticalSpread>
       <minSpreadSpread>14</minSpreadSpread>
-      <maxSpreadSpread>14</maxSpreadSpread>
+      <maxSpreadSpread>14.5</maxSpreadSpread>
       <lyricsOddFontSize>11</lyricsOddFontSize>
       <lyricsOddFontStyle>2</lyricsOddFontStyle>
       <lyricsEvenFontSize>11</lyricsEvenFontSize>
       <lyricsEvenFontStyle>2</lyricsEvenFontStyle>
+      <frameSystemDistance>4</frameSystemDistance>
       <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
       <evenHeaderL></evenHeaderL>
       <evenHeaderR>$p</evenHeaderR>
@@ -34,6 +36,8 @@ $:copyright:</evenFooterC>
       <oddFooterC>Žałm LXXII.
 $:copyright:</oddFooterC>
       <crossMeasureValues>1</crossMeasureValues>
+      <composerAlign>right,top</composerAlign>
+      <lyricistAlign>left,top</lyricistAlign>
       <Spatium>1.6</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -270,7 +274,26 @@ $:copyright:</oddFooterC>
         <Text>
           <style>Subtitle</style>
           <italic>1</italic>
+          <offset x="0" y="12"/>
           <text>Deus iudicium tuum Regi da</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Nápěv: Ženevský žaltář (1543)
+<font size="5"/> 
+<font size="10"/>Loutnový doprovod: Adrian Le Roy
+Tiers livre de tabulature de luth (Paris 1552)
+<font size="5"/> 
+<font size="10"/>přepsal a sjednotil Vladimír Váša (2021)</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Český text: Jiří Strejc
+Žałmové neb Zpěvové svatého Davida (Kralice 1598)
+<font size="5"/> 
+<font size="10"/>s využitím studie Tomáše Matějce (Praha 2014)
+<font size="5"/> 
+<font size="10"/>pro 6 sb. renesanční loutnu v ladění G-c-f-a-d'-g'</text>
           </Text>
         </VBox>
       <Measure>
@@ -1554,7 +1577,6 @@ $:copyright:</oddFooterC>
               <syllabic>end</syllabic>
               <text>ko</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -1577,7 +1599,6 @@ $:copyright:</oddFooterC>
               <syllabic>begin</syllabic>
               <text>de</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>70</pitch>
               <tpc>12</tpc>
@@ -1604,7 +1625,6 @@ $:copyright:</oddFooterC>
               <syllabic>end</syllabic>
               <text>šti</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -1627,7 +1647,6 @@ $:copyright:</oddFooterC>
               <syllabic>begin</syllabic>
               <text>ča</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -1786,7 +1805,6 @@ $:copyright:</oddFooterC>
               <syllabic>middle</syllabic>
               <text>kří</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -1809,7 +1827,6 @@ $:copyright:</oddFooterC>
               <syllabic>middle</syllabic>
               <text>va</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -1840,7 +1857,6 @@ $:copyright:</oddFooterC>
               <syllabic>end</syllabic>
               <text>ti.</text>
               </Lyrics>
-            <StemDirection>down</StemDirection>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1857,11 +1873,10 @@ $:copyright:</oddFooterC>
             </Chord>
           </voice>
         </Measure>
-      <Measure len="6/2">
+      <Measure>
         <voice>
           <Chord>
-            <dots>1</dots>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -1877,7 +1892,7 @@ $:copyright:</oddFooterC>
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
+        <height>5</height>
         <topGap>0</topGap>
         <bottomGap>0</bottomGap>
         <boxAutoSize>0</boxAutoSize>
@@ -5078,7 +5093,7 @@ $:copyright:</oddFooterC>
             </Chord>
           </voice>
         </Measure>
-      <Measure len="6/2">
+      <Measure>
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -5117,12 +5132,6 @@ $:copyright:</oddFooterC>
               <string>0</string>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
           </voice>
         </Measure>
       </Staff>
