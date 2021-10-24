@@ -36,6 +36,7 @@ $:copyright:</evenFooterC>
       <oddFooterC>Žałm LXXII.
 $:copyright:</oddFooterC>
       <crossMeasureValues>1</crossMeasureValues>
+      <subTitleFontStyle>2</subTitleFontStyle>
       <composerAlign>right,top</composerAlign>
       <lyricistAlign>left,top</lyricistAlign>
       <Spatium>1.6</Spatium>
@@ -276,7 +277,6 @@ $:copyright:</oddFooterC>
         <Text>
           <linkedMain/>
           <style>Subtitle</style>
-          <italic>1</italic>
           <offset x="0" y="12"/>
           <text>Deus iudicium tuum Regi da</text>
           </Text>
@@ -285,21 +285,21 @@ $:copyright:</oddFooterC>
           <style>Composer</style>
           <offset x="0.16" y="0"/>
           <text>Nápěv: Ženevský žaltář (1543)
-<font size="3"/> 
-<font size="10"/>Loutnový doprovod: Adrian Le Roy
+<font size="3"></font> 
+<font size="10"></font>Loutnový doprovod: Adrian Le Roy
 Tiers livre de tabulature de luth (Paris 1552)
-<font size="3"/> 
-<font size="10"/>přepsal a sjednotil Vladimír Váša (2021)</text>
+<font size="3"></font> 
+<font size="10"></font>přepsal a sjednotil Vladimír Váša (2021)</text>
           </Text>
         <Text>
           <linkedMain/>
           <style>Lyricist</style>
           <text>Český text: Jiří Strejc
 Žałmové neb Zpěvové svatého Davida (Kralice 1587/98)
-<font size="3"/> 
-<font size="10"/>s využitím studie Tomáše Matějce (Praha 2014)
-<font size="3"/> 
-<font size="10"/>pro 6 sb. renesanční loutnu v ladění G-c-f-a-d'-g'</text>
+<font size="3"></font> 
+<font size="10"></font>s využitím studie Tomáše Matějce (Praha 2014)
+<font size="3"></font> 
+<font size="10"></font>pro 6 sb. renesanční loutnu v ladění G-c-f-a-d'-g'</text>
           </Text>
         </VBox>
       <Measure>
@@ -6085,6 +6085,7 @@ $:copyright:</evenFooterC>
         <oddFooterC>Žałm LXXII.
 $:copyright:</oddFooterC>
         <crossMeasureValues>1</crossMeasureValues>
+        <subTitleFontStyle>2</subTitleFontStyle>
         <composerAlign>right,top</composerAlign>
         <lyricistAlign>left,top</lyricistAlign>
         <Spatium>1.6</Spatium>
@@ -6269,7 +6270,6 @@ $:copyright:</oddFooterC>
             <linked>
               </linked>
             <style>Subtitle</style>
-            <italic>1</italic>
             <offset x="0" y="12"/>
             <text>Deus iudicium tuum Regi da</text>
             </Text>
@@ -6278,11 +6278,11 @@ $:copyright:</oddFooterC>
               </linked>
             <style>Composer</style>
             <text>Nápěv: Ženevský žaltář (1543)
-<font size="3"/> 
-<font size="10"/>Loutnový doprovod: Adrian Le Roy
+<font size="3"></font> 
+<font size="10"></font>Loutnový doprovod: Adrian Le Roy
 Tiers livre de tabulature de luth (Paris 1552)
-<font size="3"/> 
-<font size="10"/>přepsal a sjednotil Vladimír Váša (2021)</text>
+<font size="3"></font> 
+<font size="10"></font>přepsal a sjednotil Vladimír Váša (2021)</text>
             </Text>
           <Text>
             <linked>
@@ -6290,10 +6290,10 @@ Tiers livre de tabulature de luth (Paris 1552)
             <style>Lyricist</style>
             <text>Český text: Jiří Strejc
 Žałmové neb Zpěvové svatého Davida (Kralice 1587/98)
-<font size="3"/> 
-<font size="10"/>s využitím studie Tomáše Matějce (Praha 2014)
-<font size="3"/> 
-<font size="10"/>pro 6 sb. renesanční loutnu v ladění G-c-f-a-d'-g'</text>
+<font size="3"></font> 
+<font size="10"></font>s využitím studie Tomáše Matějce (Praha 2014)
+<font size="3"></font> 
+<font size="10"></font>pro 6 sb. renesanční loutnu v ladění G-c-f-a-d'-g'</text>
             </Text>
           </VBox>
         <Measure>
