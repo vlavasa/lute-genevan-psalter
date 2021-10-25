@@ -277,20 +277,20 @@ $:copyright:</oddFooterC>
           <style>Lyricist</style>
           <text>Český text: Jiří Strejc
 Žałmové neb Zpěvové svatého Davida (Kralice 1587/98)
-<font size="3"/> 
-<font size="10"/>s využitím studie Tomáše Matějce (Praha 2014)
-<font size="3"/> 
-<font size="10"/>přepsal a sjednotil Vladimír Váša (2021)</text>
+<font size="3"></font> 
+<font size="10"></font>s využitím studie Tomáše Matějce (Praha 2014)
+<font size="3"></font> 
+<font size="10"></font>přepsal a sjednotil Vladimír Váša (2021)</text>
           </Text>
         <Text>
           <style>Composer</style>
           <offset x="0.16" y="0"/>
           <text>Nápěv: Ženevský žaltář (1543)
-<font size="3"/> 
-<font size="10"/>Loutnový doprovod: Adrian Le Roy
+<font size="3"></font> 
+<font size="10"></font>Loutnový doprovod: Adrian Le Roy
 Tiers livre de tabulature de luth (Paris 1552)
-<font size="3"/> 
-<font size="10"/>pro 6 sb. renesanční loutnu v ladění G-c-f-a-d'-g'</text>
+<font size="3"></font> 
+<font size="10"></font>pro 6 sb. renesanční loutnu v ladění G-c-f-a-d'-g'</text>
           </Text>
         </VBox>
       <Measure>
@@ -1466,7 +1466,7 @@ Tiers livre de tabulature de luth (Paris 1552)
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/2">
         <stretch>0.8</stretch>
         <voice>
           <Chord>
@@ -1490,14 +1490,6 @@ Tiers livre de tabulature de luth (Paris 1552)
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>dotted</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure len="1/2">
-        <stretch>0.9</stretch>
-        <voice>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -1521,12 +1513,11 @@ Tiers livre de tabulature de luth (Paris 1552)
             </Chord>
           </voice>
         </Measure>
-      <Measure len="1/2">
-        <irregular>1</irregular>
+      <Measure len="3/2">
         <stretch>0.8</stretch>
         <voice>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>whole</durationType>
             <Lyrics>
               <text>vždy</text>
               </Lyrics>
@@ -1541,38 +1532,6 @@ Tiers livre de tabulature de luth (Paris 1552)
               <text>stvo</text>
               </Lyrics>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <BarLine>
-            <subtype>dotted</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.8</stretch>
-        <voice>
-          <Chord>
-            <durationType>half</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -1593,7 +1552,6 @@ Tiers livre de tabulature de luth (Paris 1552)
               <syllabic>middle</syllabic>
               <text>ři</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
@@ -4491,7 +4449,7 @@ Tiers livre de tabulature de luth (Paris 1552)
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/2">
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -4547,16 +4505,31 @@ Tiers livre de tabulature de luth (Paris 1552)
               <string>4</string>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>dotted</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure len="1/2">
-        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Symbol>
+                <name>barlineDotted</name>
+                <font>Bravura</font>
+                <Symbol>
+                  <name>barlineDotted</name>
+                  <font>Bravura</font>
+                  <offset x="-139.73" y="-117.158"/>
+                  <z>499</z>
+                  </Symbol>
+                <offset x="-0.5" y="-0.49"/>
+                </Symbol>
+              <Symbol>
+                <name>barlineDotted</name>
+                <font>Bravura</font>
+                <Symbol>
+                  <name>barlineDotted</name>
+                  <font>Bravura</font>
+                  <offset x="-139.73" y="-117.158"/>
+                  <z>499</z>
+                  </Symbol>
+                <offset x="-0.5" y="2.97"/>
+                </Symbol>
               <pitch>53</pitch>
               <tpc>13</tpc>
               <fret>0</fret>
@@ -4586,7 +4559,7 @@ Tiers livre de tabulature de luth (Paris 1552)
             </Chord>
           </voice>
         </Measure>
-      <Measure len="1/2">
+      <Measure len="3/2">
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -4618,13 +4591,6 @@ Tiers livre de tabulature de luth (Paris 1552)
               <string>3</string>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>dotted</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -4664,12 +4630,34 @@ Tiers livre de tabulature de luth (Paris 1552)
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Symbol>
+                <name>barlineDotted</name>
+                <font>Bravura</font>
+                <Symbol>
+                  <name>barlineDotted</name>
+                  <font>Bravura</font>
+                  <offset x="-139.73" y="-117.158"/>
+                  <z>499</z>
+                  </Symbol>
+                <offset x="-0.5" y="1.47"/>
+                </Symbol>
               <pitch>48</pitch>
               <tpc>14</tpc>
               <fret>0</fret>
               <string>4</string>
               </Note>
             <Note>
+              <Symbol>
+                <name>barlineDotted</name>
+                <font>Bravura</font>
+                <Symbol>
+                  <name>barlineDotted</name>
+                  <font>Bravura</font>
+                  <offset x="-139.73" y="-117.158"/>
+                  <z>499</z>
+                  </Symbol>
+                <offset x="-0.5" y="1.02"/>
+                </Symbol>
               <pitch>57</pitch>
               <tpc>17</tpc>
               <fret>0</fret>
