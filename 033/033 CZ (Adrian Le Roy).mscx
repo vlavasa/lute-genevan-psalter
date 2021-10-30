@@ -39,6 +39,10 @@ $:copyright:</oddFooterC>
       <subTitleFontStyle>2</subTitleFontStyle>
       <composerAlign>right,top</composerAlign>
       <lyricistAlign>left,top</lyricistAlign>
+      <measureNumberPosBelow x="0" y="1"/>
+      <frameFontSize>11</frameFontSize>
+      <frameFontStyle>2</frameFontStyle>
+      <footerAlign>center,center</footerAlign>
       <Spatium>1.6</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -2038,6 +2042,120 @@ Tiers livre de tabulature de luth (Paris 1552)
             </Chord>
           </voice>
         </Measure>
+      <VBox>
+        <height>10</height>
+        <topGap>0</topGap>
+        <bottomGap>0</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
+        </VBox>
+      <HBox>
+        <width>42.64</width>
+        <Text>
+          <style>Frame</style>
+          <text>7.   Onť jako do sudu hrozného
+      Zavřeł moře předivně sám;
+      I hłubiny propastí jeho
+      Jako pokład skrył mocný Pán:
+8.   Protož jeho bázně
+      Všecka země snažně
+      Máť ostříhati;
+      Každý na svém místě
+      Má se před ním jistě
+      Třísti a báti.
+
+9.   Neb jakž on usta svá otvírá
+      Vše k słovu jeho hned stojí;
+      Vůli jeho nic neodpírá
+      Soudy jeho se pokojí
+10. Národů všech rady
+      Rozum i układy
+      Rozptyluje Pán;
+      Lidská mudrování
+      Mnohá kvałtování
+      V nic obrací sám.</text>
+          </Text>
+        </HBox>
+      <HBox>
+        <width>42.64</width>
+        <Text>
+          <style>Frame</style>
+          <text>11. Ale jeho, vždy bez přestání
+      Moc rady stále zůstává:
+      Tajných jeho přemyšlování
+      Věčná bez proměny zpráva:
+12. Šťastný po vše časy
+      Jenž se živě hłásí
+      Lid, k Hospodinu;
+      Jejž i on vyvolił
+      V dědictví připojił
+      K sobě samému.
+
+13. Pán dołů patří z divné schrany
+      Příbytku svého svatého
+      Na všecky všeho světa strany
+      I na čłověka každého;
+14. Ke všemu dohlídá
+      Odtud kdež svůj byt má
+      Pevný navěky;
+      Lidi na všem světě
+      Všudy v každém koutě
+      Spatřuje všecky.</text>
+          </Text>
+        </HBox>
+      <HBox>
+        <width>42.64</width>
+        <Text>
+          <style>Frame</style>
+          <text>15. Onť sám předůstojnou svou mocí
+      Srdce jejich všech sformovał:
+      Protož skutky jich dnem i nocí
+      Kdož jest jako on že by znał?
+16. Krále velikého
+      Jistě vojska jeho
+      Žeť neretují:
+      I mocné hrdiny
+      Marně svými činy
+      Sebe troštují.
+
+17. Kdož v síle koňů se zakłádá
+      Sám sebe velmi tím svodí;
+      I reky zmužiłost též skrádá
+      Z nouze jich nevysvobodí;
+18. Ale Hospodin sám
+      V ochraně jistě znám
+      Hledě na všecky
+      Kteříž v něm doufání
+      V jeho smiłování
+      Skłádají vždycky.</text>
+          </Text>
+        </HBox>
+      <HBox>
+        <width>42.64</width>
+        <Text>
+          <style>Frame</style>
+          <text>19. Těchť on duší chrání s pilností
+      Byť jich smrt nepřikváčiła:
+      Dává jim i chleba v hojnosti
+      K zahnání hładu doceła:
+20. Protož Pánu směle
+      Duše naše cele
+      Se poroučejí:
+      Onť nám sám pomáhá
+      Svým štítem zastává;
+      Nebť při nás stojí.
+
+21. V němť se bude vždy dokonále
+      Náše srdce veseliti;
+      Neb v jeho svatém jménu stále
+      Máme naději do smrti:
+22. Pane jen miłosti
+      Přispářej v hojnosti
+      Nám, na každý čas;
+      Však v tebe doufáme
+      Tu jistý port známe
+      Králi věčný náš.</text>
+          </Text>
+        </HBox>
       </Staff>
     <Staff id="2">
       <Measure>
