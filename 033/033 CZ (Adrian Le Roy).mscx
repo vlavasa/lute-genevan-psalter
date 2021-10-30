@@ -4511,23 +4511,11 @@ Tiers livre de tabulature de luth (Paris 1552)
               <Symbol>
                 <name>barlineDotted</name>
                 <font>Bravura</font>
-                <Symbol>
-                  <name>barlineDotted</name>
-                  <font>Bravura</font>
-                  <offset x="-139.73" y="-117.158"/>
-                  <z>499</z>
-                  </Symbol>
                 <offset x="-0.5" y="-0.49"/>
                 </Symbol>
               <Symbol>
                 <name>barlineDotted</name>
                 <font>Bravura</font>
-                <Symbol>
-                  <name>barlineDotted</name>
-                  <font>Bravura</font>
-                  <offset x="-139.73" y="-117.158"/>
-                  <z>499</z>
-                  </Symbol>
                 <offset x="-0.5" y="2.97"/>
                 </Symbol>
               <pitch>53</pitch>
@@ -4644,12 +4632,6 @@ Tiers livre de tabulature de luth (Paris 1552)
               <Symbol>
                 <name>barlineDotted</name>
                 <font>Bravura</font>
-                <Symbol>
-                  <name>barlineDotted</name>
-                  <font>Bravura</font>
-                  <offset x="-139.73" y="-117.158"/>
-                  <z>499</z>
-                  </Symbol>
                 <offset x="-0.5" y="1.02"/>
                 </Symbol>
               <pitch>57</pitch>
