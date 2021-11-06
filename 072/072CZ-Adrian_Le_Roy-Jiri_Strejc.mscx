@@ -33,9 +33,9 @@
       <evenHeaderR>$p</evenHeaderR>
       <oddHeaderL>$p</oddHeaderL>
       <oddHeaderR></oddHeaderR>
-      <evenFooterC>Žałm LXXII.
+      <evenFooterC>$:workTitle:
 $:copyright:</evenFooterC>
-      <oddFooterC>Žałm LXXII.
+      <oddFooterC>$:workTitle:
 $:copyright:</oddFooterC>
       <crossMeasureValues>1</crossMeasureValues>
       <subTitleFontStyle>2</subTitleFontStyle>
@@ -61,7 +61,7 @@ $:copyright:</oddFooterC>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">ŽALM 72</metaTag>
+    <metaTag name="workTitle">Žałm LXXII.</metaTag>
     <Order id="orchestral" customized="1">
       <name>Orchestr</name>
       <instrument id="voice">
@@ -6066,9 +6066,9 @@ Tiers livre de tabulature de luth (Paris 1552)
         <evenHeaderR>$p</evenHeaderR>
         <oddHeaderL>$p</oddHeaderL>
         <oddHeaderR></oddHeaderR>
-        <evenFooterC>Žałm LXXII.
+        <evenFooterC>$:workTitle:
 $:copyright:</evenFooterC>
-        <oddFooterC>Žałm LXXII.
+        <oddFooterC>$:workTitle:
 $:copyright:</oddFooterC>
         <crossMeasureValues>1</crossMeasureValues>
         <subTitleFontStyle>2</subTitleFontStyle>
