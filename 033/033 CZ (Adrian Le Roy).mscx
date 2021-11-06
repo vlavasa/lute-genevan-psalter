@@ -26,6 +26,8 @@
       <lyricsEvenFontSize>11</lyricsEvenFontSize>
       <lyricsEvenFontStyle>2</lyricsEvenFontStyle>
       <frameSystemDistance>3</frameSystemDistance>
+      <barNoteDistance>1</barNoteDistance>
+      <noteBarDistance>1.2</noteBarDistance>
       <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
       <evenHeaderL></evenHeaderL>
       <evenHeaderR>$p</evenHeaderR>
@@ -740,7 +742,6 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -764,7 +765,6 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -809,7 +809,6 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -856,7 +855,6 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -901,7 +899,6 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -927,7 +924,6 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -953,7 +949,6 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Rest>
             <durationType>whole</durationType>
@@ -961,7 +956,6 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -987,7 +981,6 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -1033,7 +1026,6 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -1080,7 +1072,6 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1106,7 +1097,6 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1132,7 +1122,6 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1158,7 +1147,6 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -1169,7 +1157,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -1211,7 +1199,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -1260,7 +1248,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1286,7 +1274,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1311,7 +1299,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Rest>
             <durationType>whole</durationType>
@@ -1319,7 +1307,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -1366,7 +1354,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -1411,7 +1399,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1437,7 +1425,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1463,15 +1451,15 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Rest>
             <durationType>whole</durationType>
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/2">
-        <stretch>0.8</stretch>
+      <Measure>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1494,6 +1482,11 @@ Tiers livre de tabulature de luth (Paris 1552)
               <tpc>12</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.9</stretch>
+        <voice>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -1515,13 +1508,8 @@ Tiers livre de tabulature de luth (Paris 1552)
               <tpc>17</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure len="3/2">
-        <stretch>0.8</stretch>
-        <voice>
           <Chord>
-            <durationType>whole</durationType>
+            <durationType>half</durationType>
             <Lyrics>
               <text>vždy</text>
               </Lyrics>
@@ -1536,6 +1524,36 @@ Tiers livre de tabulature de luth (Paris 1552)
               <text>stvo</text>
               </Lyrics>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-1/2</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>0.9</stretch>
+        <voice>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>1/2</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -1564,7 +1582,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1590,7 +1608,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -1601,7 +1619,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -1646,7 +1664,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -1693,7 +1711,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1719,7 +1737,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1745,7 +1763,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1771,7 +1789,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1797,7 +1815,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -1843,7 +1861,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1868,7 +1886,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1893,7 +1911,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -1937,7 +1955,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1962,7 +1980,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -1988,7 +2006,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -2024,7 +2042,7 @@ Tiers livre de tabulature de luth (Paris 1552)
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -4567,7 +4585,7 @@ Tiers livre de tabulature de luth (Paris 1552)
             </Chord>
           </voice>
         </Measure>
-      <Measure len="3/2">
+      <Measure>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -4623,19 +4641,13 @@ Tiers livre de tabulature de luth (Paris 1552)
               <string>4</string>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Symbol>
-                <name>barlineDotted</name>
-                <font>Bravura</font>
-                <offset x="-0.5" y="-0.49"/>
-                </Symbol>
-              <Symbol>
-                <name>barlineDotted</name>
-                <font>Bravura</font>
-                <offset x="-0.5" y="2.97"/>
-                </Symbol>
               <pitch>53</pitch>
               <tpc>13</tpc>
               <fret>0</fret>
@@ -4663,10 +4675,6 @@ Tiers livre de tabulature de luth (Paris 1552)
               <string>0</string>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure len="3/2">
-        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -4697,6 +4705,10 @@ Tiers livre de tabulature de luth (Paris 1552)
               <string>3</string>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -4736,22 +4748,12 @@ Tiers livre de tabulature de luth (Paris 1552)
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Symbol>
-                <name>barlineDotted</name>
-                <font>Bravura</font>
-                <offset x="-0.5" y="1.47"/>
-                </Symbol>
               <pitch>48</pitch>
               <tpc>14</tpc>
               <fret>0</fret>
               <string>4</string>
               </Note>
             <Note>
-              <Symbol>
-                <name>barlineDotted</name>
-                <font>Bravura</font>
-                <offset x="-0.5" y="1.02"/>
-                </Symbol>
               <pitch>57</pitch>
               <tpc>17</tpc>
               <fret>0</fret>
