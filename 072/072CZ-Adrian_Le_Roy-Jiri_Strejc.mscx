@@ -41,6 +41,8 @@ $:copyright:</oddFooterC>
       <subTitleFontStyle>2</subTitleFontStyle>
       <composerAlign>right,top</composerAlign>
       <lyricistAlign>left,top</lyricistAlign>
+      <frameFontSize>11</frameFontSize>
+      <frameFontStyle>2</frameFontStyle>
       <Spatium>1.6</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -2211,8 +2213,6 @@ Tiers livre de tabulature de luth (Paris 1552)
         <Text>
           <linkedMain/>
           <style>Frame</style>
-          <size>11</size>
-          <italic>1</italic>
           <offset x="10" y="0"/>
           <text>7.   Za dnů toho tak ctného krále
       Zkvetne spravedlivý;
@@ -2248,8 +2248,6 @@ Tiers livre de tabulature de luth (Paris 1552)
         <Text>
           <linkedMain/>
           <style>Frame</style>
-          <size>11</size>
-          <italic>1</italic>
           <offset x="10" y="0"/>
           <text>13. V nouzi a bídě tápajícím
       Bude lítostivý;
@@ -2285,8 +2283,6 @@ Tiers livre de tabulature de luth (Paris 1552)
         <Text>
           <linkedMain/>
           <style>Frame</style>
-          <size>11</size>
-          <italic>1</italic>
           <offset x="10" y="0"/>
           <text>17. Jméno a čest tohoto krále
       Má věčně trvati;
@@ -6078,6 +6074,8 @@ $:copyright:</oddFooterC>
         <subTitleFontStyle>2</subTitleFontStyle>
         <composerAlign>right,top</composerAlign>
         <lyricistAlign>left,top</lyricistAlign>
+        <frameFontSize>11</frameFontSize>
+        <frameFontStyle>2</frameFontStyle>
         <Spatium>1.6</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -8509,8 +8507,6 @@ Tiers livre de tabulature de luth (Paris 1552)
             <linked>
               </linked>
             <style>Frame</style>
-            <size>11</size>
-            <italic>1</italic>
             <offset x="10" y="0"/>
             <text>7.   Za dnů toho tak ctného krále
       Zkvetne spravedlivý;
@@ -8548,8 +8544,6 @@ Tiers livre de tabulature de luth (Paris 1552)
             <linked>
               </linked>
             <style>Frame</style>
-            <size>11</size>
-            <italic>1</italic>
             <offset x="10" y="0"/>
             <text>13. V nouzi a bídě tápajícím
       Bude lítostivý;
@@ -8587,8 +8581,6 @@ Tiers livre de tabulature de luth (Paris 1552)
             <linked>
               </linked>
             <style>Frame</style>
-            <size>11</size>
-            <italic>1</italic>
             <offset x="10" y="0"/>
             <text>17. Jméno a čest tohoto krále
       Má věčně trvati;
