@@ -33,9 +33,9 @@
       <evenHeaderR>$p</evenHeaderR>
       <oddHeaderL>$p</oddHeaderL>
       <oddHeaderR></oddHeaderR>
-      <evenFooterC>Žałm XXXIII.
+      <evenFooterC>$:workTitle:
 $:copyright:</evenFooterC>
-      <oddFooterC>Žałm XXXIII.
+      <oddFooterC>$:workTitle:
 $:copyright:</oddFooterC>
       <crossMeasureValues>1</crossMeasureValues>
       <subTitleFontStyle>2</subTitleFontStyle>
@@ -62,7 +62,7 @@ $:copyright:</oddFooterC>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">ŽALM 33</metaTag>
+    <metaTag name="workTitle">Žałm XXXIII.</metaTag>
     <Order id="orchestral" customized="1">
       <name>Orchestr</name>
       <instrument id="voice">
